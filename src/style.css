@@ -7,6 +7,4 @@
 @import './css/helpers.css';
 
 /* Components */
-@import './css/components/header.css';
-@import './css/components/pricelist.css';
-@import './css/components/orders.css';
+@import './css/components/landing.css'
