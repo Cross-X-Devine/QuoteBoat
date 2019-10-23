@@ -1,0 +1,8 @@
+.layout{
+
+}
+
+.title{
+    color: var(--textColor);
+    font-size: var(--fontsizeMedium);
+}

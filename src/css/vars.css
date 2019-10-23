@@ -1,14 +1,14 @@
 :root {
   /* Colors */
-  --backgroundColor: #f9d2cb;
-  --textColor: #212121;
-  --secondarytextColor: #9c9c9c;
-  --accentColor: #a3f4dc;
+  --backgroundColor: #7A8A97;
+  --textColor: black;
+  --secondarytextColor: white;
+  --accentColor: #F1F4F7;
 
   /* Fontsizes */
   --fontsizeSmall: 12px;
-  --fontsizeMedium: 18px;
-  --fontsizeBig: 26px;
+  --fontsizeMedium: 48px;
+  --fontsizeBig: 96px;
 
   /* Margins */
   --marginSmall: 12px;
