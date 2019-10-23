@@ -1,0 +1,21 @@
+.header {
+  background-color: var(--backgroundColor);
+  padding-bottom: 0;
+}
+
+.header__titles {
+  width: 55vw;
+}
+.header__titles::after{
+  background-image: url(../components/tea-cup.png);
+  height: 71px;
+  width: 102px;
+}
+.h1-like {
+  font-size: var(--fontsizeBig);
+}
+
+.h2-like {
+  font-size: var(--fontsizeSmall);
+  text-transform: uppercase;
+}
