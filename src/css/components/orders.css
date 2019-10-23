@@ -1,0 +1,40 @@
+.content {
+  display: flex;
+  flex-flow: column;
+
+  .content :nth-child(2) {
+    order: 3;
+  }
+}
+
+.orders__wrapper {
+  display: flex;
+  flex-flow: row;
+}
+
+.order__amount{
+  color: var(--backgroundColor);
+  font-weight: 700;
+}
+.title_mini {
+  font-size: var(--fontsizeSmall);
+  text-transform: uppercase;
+}
+
+.emptystate {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.emptystate img {
+  width: 67px;
+}
+
+.emptystate__content {
+  font-size: var(--fontsizeMedium);
+  color: var(--secondarytextColor);
+  margin-top: var(--marginSmall);
+}
+
+

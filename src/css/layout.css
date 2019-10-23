@@ -1,0 +1,7 @@
+.layout {
+  margin: 0rem auto;
+  width: 40rem;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+}
